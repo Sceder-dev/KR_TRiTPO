@@ -74,11 +74,11 @@
 
 **Главное окно программы**
 
-![Главное окно программы (Главное окно программы)](/Images/Easy_main.png)  
+![Главное окно программы](/Images/Easy_main.png)  
 
 **Окно настроек**
 
-![Окно настроек (Окно настроек)](/Images/Easy_Settings.png)  
+![Окно настроек](/Images/Easy_Settings.png)  
  
 
 <a name="user_specifications"/>
